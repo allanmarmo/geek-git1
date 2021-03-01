@@ -45,6 +45,7 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 
 Allan Marmo - [@Allanmarmo](https://twitter.com/Allanmarmo) - allanmarmo@gmail.com
+
 Distribuído sobre a licença; Veja `LICENÇA` para mais informações.
 
 [https://github.com/allanmarmo/geek-git1](https://github.com/allanmarmo)
