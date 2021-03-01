@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nome do seu projeto
 > Um resumo do que seu projeto faz
 
